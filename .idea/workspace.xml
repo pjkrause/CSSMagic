@@ -75,7 +75,7 @@
       <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="11" selection-start="175" selection-end="496" vertical-scroll-proportion="-8.75">
+            <state line="6" column="68" selection-start="172" selection-end="172" vertical-scroll-proportion="-3.125">
               <folding />
             </state>
           </provider>
@@ -84,7 +84,7 @@
       <file leaf-file-name="animation.css.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/animation.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="13" selection-start="267" selection-end="267" vertical-scroll-proportion="0.3882353">
+            <state line="11" column="11" selection-start="265" selection-end="265" vertical-scroll-proportion="0.3882353">
               <folding />
             </state>
           </provider>
@@ -641,13 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="11" selection-start="175" selection-end="496" vertical-scroll-proportion="-8.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/animation/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="74" selection-start="123" selection-end="123" vertical-scroll-proportion="-0.625">
@@ -655,9 +648,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="68" selection-start="172" selection-end="172" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/animation.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="267" selection-end="267" vertical-scroll-proportion="0.3882353">
+        <state line="11" column="11" selection-start="265" selection-end="265" vertical-scroll-proportion="0.3882353">
           <folding />
         </state>
       </provider>
