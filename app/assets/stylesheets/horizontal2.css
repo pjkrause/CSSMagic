@@ -1,0 +1,39 @@
+/* 
+    Document   : horizontal2
+    Created on : Nov 5, 2010, 12:59:17 PM
+    Author     : Paul_Krause
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+}
+
+#pageHeader {
+    font: 120% Verdana, Geneva, Arial, Helvetica, sans-serif;
+    color: #778899;
+    background-image: url(Raffles.jpg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 640px;
+    width: 270px;
+    padding: 0px 10px 0px 10px;
+    z-index: 10;
+}
+
+p {
+    margin-top: 0;
+    text-align: justify;
+}
+

@@ -1,0 +1,138 @@
+/* 
+    Document   : horizontal
+    Created on : Dec 10, 2009, 12:25:46 PM
+    Author     : Paul_Krause
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+}
+
+p {
+    font: 80%/1.8em Verdana, Geneva, Arial, Helvetica, sans-serif;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+#pageHeader {
+    font: 120% Verdana, Geneva, Arial, Helvetica, sans-serif;
+    color: #778899;
+    background-image: url(Raffles.jpg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 640px;
+    width: 270px;
+    padding: 0px 10px 0px 10px;
+    z-index: 10;
+}
+
+#backgroundText {
+    position: absolute;
+    width: 200px;
+    left: 290px;
+    top: 100px;
+    padding: 0px 10px 0px 10px;
+    border-right: 1px dotted #cccccc;
+}
+
+#backgroundText h3 {
+    font: 110% Georgia, "Times New Roman", Times, serif;
+    margin: 0;
+    padding-bottom: 4px;
+}
+
+#backgroundText p {
+    padding: 2px 4px 2px 6px;
+    margin: 0 0 10px 0;
+    border: 1px dotted #B1B1B1;
+    background-color: #F4F4F4;
+}
+
+#mainText h2 {
+    font: 120% Georgia, "Times New Roman", Times, serif;
+    margin: 0;
+    padding-bottom: 4px;
+}
+
+#firstText {
+    position: absolute;
+    width: 400px;
+    left: 510px;
+    top: 100px;
+    padding: 0px 10px 0px 10px;
+}
+
+#secondText {
+    position: absolute;
+    width: 400px;
+    left: 930px;
+    top: 100px;
+    padding: 0px 10px 0px 10px;
+}
+
+
+#thirdText {
+    position: absolute;
+    width: 400px;
+    left: 1350px;
+    top: 100px;
+    padding: 0px 10px 0px 10px;
+}
+
+#linkList {
+    position: absolute;
+    width: 200px;
+    left: 1770px;
+    top: 100px;
+    padding: 0px 10px 0px 10px;
+}
+
+#linkList h3 {
+    font: 110% Georgia, "Times New Roman", Times, serif;
+    color: #621313;
+    background-color: transparent;
+    margin: 0;
+    padding-bottom: 4px;
+}
+
+#linkList ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    width: 184px;
+}
+#linkList li {
+    font: 80% Verdana, Geneva, Arial, Helvetica, sans-serif;
+    margin-bottom: 0.3em;
+    border-bottom: 1px solid #E7AFAF;
+}
+#linkList a:link, #linkList a:visited {
+    text-decoration: none;
+    color: #901602;
+    background-color: transparent;
+}
+#linkList a:hover {
+    color: #621313;
+}
+
+#footer {
+    position: absolute;
+    width: 200px;
+    left: 1770px;
+    top: 400px;
+    padding: 0px 10px 0px 10px;
+    border: 1px solid #B1B1B1;
+    background-color: #F4F4F4;
+}
