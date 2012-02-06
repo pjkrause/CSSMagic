@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-CSSMagic::Application.config.secret_token = 'df580b082390e908747eb8424bf3b6871142126b7d380ac37015c0b4ac4e2a5a5f375c99ad32975158cc8272d85b3a3e17c0572d662a779eaf355e0496065e58'
+CSSMagic::Application.config.secret_token = '00e5a0476f85255d75817bc911df4ed704d1a052a0ea1a91208ac09f1aa7b01fdaa1fd85479075d13bae007e21d1ff6f8396ad339742d526a28a30d408f46d28'

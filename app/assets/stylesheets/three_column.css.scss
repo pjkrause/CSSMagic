@@ -1,0 +1,120 @@
+// Place all the styles related to the three_column controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+/*
+    Document   : threeColumn
+    Created on : Dec 9, 2009, 10:56:16 PM
+    Author     : Paul_Krause
+    Description:
+        This style sheet demonstrates three column formating
+        using CSS.
+*/
+
+/*
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+#wrapper {
+    width: 750px;
+    margin: 0 auto;
+    text-align: left;
+    position: relative;
+}
+
+p {
+    font: 80%/1.8em Verdana, Geneva, Arial, Helvetica, sans-serif;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+#pageHeader {
+    text-align: center;
+    border: 4px solid #B1B1B1;
+    background-color: #F4F4F4;
+}
+
+#linkList {
+    position: absolute;
+    width: 150px;
+    top: 30px;
+    left: 10px;
+    padding: 70px 10px 10px 10px;
+}
+
+#linkList h3 {
+    font: 110% Georgia, "Times New Roman", Times, serif;
+    color: #621313;
+    background-color: transparent;
+    margin: 0;
+    padding-bottom: 4px;
+}
+
+#linkList ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    width: 184px;
+}
+#linkList li {
+    font: 80% Verdana, Geneva, Arial, Helvetica, sans-serif;
+    margin-bottom: 0.3em;
+}
+#linkList a:link, #linkList a:visited {
+    text-decoration: none;
+    color: #901602;
+    background-color: transparent;
+}
+#linkList a:hover {
+    color: #621313;
+}
+
+#backgroundText {
+    position: absolute;
+    width: 150px;
+    top: 100px;
+    left: 600px;
+    border-left: 1px dotted #cccccc;
+}
+
+#backgroundText h3 {
+    font: 110% Georgia, "Times New Roman", Times, serif;
+    margin: 0;
+    padding-bottom: 4px;
+}
+
+#backgroundText p {
+    padding: 2px 4px 2px 6px;
+    margin: 0 0 10px 0;
+    border: 1px dotted #B1B1B1;
+    background-color: #F4F4F4;
+}
+
+#mainText {
+    width: 450px;
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    padding-right: 20px;
+}
+
+#mainText h2 {
+    font: 120% Georgia, "Times New Roman", Times, serif;
+    margin: 0;
+    padding-bottom: 4px;
+}
+
+#footer {
+    padding: 12px 14px 12px 16px;
+    margin: 20px 20px 20px 20px;
+    border: 1px solid #B1B1B1;
+    background-color: #F4F4F4;
+}

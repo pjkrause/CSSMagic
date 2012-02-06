@@ -1,9 +1,9 @@
 CSSMagic::Application.routes.draw do
-  get "css_samples/three_column"
+  get "unformatted/index"
 
-  get "css_samples/three_column_centre"
+  get "three_column_float/index"
 
-  get "css_samples/horizontal"
+  get "three_column/index"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

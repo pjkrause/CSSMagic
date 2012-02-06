@@ -1,0 +1,49 @@
+// Place all the styles related to the three_column_float controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+/*
+    Document   : threeColumnFloat
+    Created on : Nov 5, 2010, 12:44:32 PM
+    Author     : Paul_Krause
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/*
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+#wrapper {
+    width: 750px;
+    margin: 0 auto;
+    text-align: left;
+    position: relative;
+}
+
+#mainText {
+    width: 450px;
+    float: left;
+}
+
+#linkList {
+    width: 150px;
+    float: left;
+}
+
+#backgroundText {
+    width: 150px;
+    float: left;
+}
+
+#footer {
+    clear: both;
+}

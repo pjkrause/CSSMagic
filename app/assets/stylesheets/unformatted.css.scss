@@ -1,0 +1,37 @@
+// Place all the styles related to the unformatted controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+#wrapper {
+    width: 750px;
+    margin: 0 auto;
+    text-align: left;
+    position: relative;
+}
+
+#mainText {
+    width: 450px;
+    float: left;
+}
+
+#linkList {
+    width: 150px;
+    float: left;
+}
+
+#backgroundText {
+    width: 150px;
+    float: left;
+}
+
+#footer {
+    clear: both;
+}
