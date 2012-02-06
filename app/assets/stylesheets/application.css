@@ -5,3 +5,16 @@
  *= require_self
  *= require_tree . 
 */
+
+body {
+    width: 700px;
+    margin: 0 auto;
+}
+
+p {
+  margin-left: 20px;
+  font-size: 20pt;
+}
+.bear {
+  color: #00F;
+}
