@@ -72,19 +72,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="68" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+            <state line="7" column="0" selection-start="173" selection-end="173" vertical-scroll-proportion="0.26184538">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animation.css.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="animation.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/animation.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="233" selection-end="233" vertical-scroll-proportion="0.3529412">
+            <state line="10" column="0" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -118,10 +118,10 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/unformatted.css.scss" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/animation/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/animation.css.scss" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       </list>
     </option>
   </component>
@@ -658,13 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="68" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
@@ -674,7 +667,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/animation.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="233" selection-end="233" vertical-scroll-proportion="0.3529412">
+        <state line="10" column="0" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="173" selection-end="173" vertical-scroll-proportion="0.26184538">
           <folding />
         </state>
       </provider>
