@@ -72,19 +72,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="512" selection-end="512" vertical-scroll-proportion="-11.25">
+            <state line="11" column="28" selection-start="312" selection-end="312" vertical-scroll-proportion="0.42525774">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animation.css.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="animation.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/animation.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.49411765">
+            <state line="18" column="22" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -658,6 +658,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/animation.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="22" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/animation/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
@@ -667,14 +674,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="512" selection-end="512" vertical-scroll-proportion="-11.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/animation.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.49411765">
+        <state line="11" column="28" selection-start="312" selection-end="312" vertical-scroll-proportion="0.42525774">
           <folding />
         </state>
       </provider>
