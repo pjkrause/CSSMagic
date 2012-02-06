@@ -1,9 +1,5 @@
 CSSMagic::Application.routes.draw do
-  get "unformatted/index"
-
-  get "three_column_float/index"
-
-  get "three_column/index"
+  get "animation/index"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
